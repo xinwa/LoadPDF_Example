@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\zbera\code\PdfiumAndroid-master\PdfTest\Pdf_viewer\src\main\assets"/><source path="E:\zbera\code\PdfiumAndroid-master\PdfTest\Pdf_viewer\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\zbera\code\PdfiumAndroid-master\PdfTest\Pdf_viewer\src\debug\assets"/></dataSet></merger>

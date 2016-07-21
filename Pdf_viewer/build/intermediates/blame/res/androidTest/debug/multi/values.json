@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\zbera\\code\\AndroidPdfViewer-master (1)\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "E:\\zbera\\code\\AndroidPdfViewer-master (1)\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\exploded-aar\\com.github.barteksc\\pdfium-android\\1.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\zbera\\code\\PdfiumAndroid-master\\PdfTest\\Pdf_viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "E:\\zbera\\code\\PdfiumAndroid-master\\PdfTest\\Pdf_viewer\\build\\intermediates\\exploded-aar\\PdfTest\\PdfiumAndroid\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]
